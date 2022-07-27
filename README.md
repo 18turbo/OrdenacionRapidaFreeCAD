@@ -8,7 +8,7 @@ Crear una macro con el contenido del fichero. Asignar un icono a la macro.
 
 Funcionamiento:
 
-Selecciona los grupos por el orden que quieres ordenarlos con la tecla Mayúsculas pulsada. Luego pulsa el icono de la macro para que los ordene.
+Selecciona los grupos por el orden que quieres ordenarlos con la tecla CTRL pulsada. Luego pulsa el icono de la macro para que los ordene.
 
 
 Notas:
