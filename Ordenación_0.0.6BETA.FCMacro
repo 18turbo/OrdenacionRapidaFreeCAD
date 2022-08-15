@@ -1,7 +1,7 @@
 import FreeCAD
 
 # Autor:			18Turbo
-# Fecha:		22-07-2022
+# Fecha:		14-08-2022
 # Versión:		0.0.6 BETA
 #	
 # Funcionalidad:		Ordena grupos según sean seleccionados.
