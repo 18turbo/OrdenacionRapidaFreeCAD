@@ -35,7 +35,7 @@ if App.ActiveDocument.getObject(objetosSeleccionados[0].Name).InList: # Esto es 
             if (padre == ""):
                 padre = App.ActiveDocument.getObject(objeto.Name).InList[0].Name
             else:
-                padreDistinto = True
+                distintoPadre = True
                 break;
 else:
     tienePadre = False
