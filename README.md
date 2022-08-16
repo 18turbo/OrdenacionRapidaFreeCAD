@@ -26,6 +26,21 @@ En FreeCAD, ordena rápidamente grupos según el orden de selección
 20. Aunque el proceso está hecho, es posible que no veas el icono de la barra hasta que cambies de banco de trabajo o reinicies FreeCAD.
 
 
+### Actualización
+
+Para actualizar una versión anterior a la actual:
+* Copia el nuevo contenido y sustituye los ficheros que tienen el nombre igual por los nuevos.
+* Abre FreeCAD
+* Pincha en el menú superior **Macro --> Macros...**
+* En la nueva ventana, selecciona la macro que quieras actualizar en la parte de la izquierda.
+* En la parte de la derecha, pincha el botón **Editar**.
+* Selecciona todo el código y bórralo. Para ello, normalmente puedes usar el atajo de teclado **CTRL - A**, y luego la tecla **SUPR**
+* Abre el archivo nuevo con cualquier editor de textos, y copia todo el código, normalmente con el atajo de teclado **CTRL - C**
+* Ve de nuevo a FreeCAD (donde habías borrado el código) y pega el contenido nuevo, normalmente con el atajo de teclado **CTRL - V**
+* Guarda la macro, normalmente con el atajo de teclado **CTRL - S**
+* Reinicia FreeCAD, o algún banco de trabajo para que los cambios tengan efecto.
+
+
 ### Funcionamiento
 
 Selecciona los grupos por el orden que quieres ordenarlos con la tecla CTRL pulsada. Luego pulsa el icono de la macro para que los ordene.
